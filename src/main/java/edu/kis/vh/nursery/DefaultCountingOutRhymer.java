@@ -1,5 +1,7 @@
 package edu.kis.vh.nursery;
+/*
 
+ */
 public class DefaultCountingOutRhymer {
     public static final int ERROR = -1;
     public static final int MAX_INDEX =11;
