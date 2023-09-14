@@ -28,3 +28,4 @@ public class Node {
         this.next = next;
     }
 }
+//all setters are being used, no need to delete anything
